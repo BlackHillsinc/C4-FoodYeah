@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario\\Desktop\\Omar\\2021-I\\FUNDAMENTOS DE LA ARQUITECTURA DEL SOFTWARE\\Semana 1\\Modelo C4\\C4Model-NetCore-master\\C4Model\\C4Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Desktop\\Omar\\2021-I\\FUNDAMENTOS DE LA ARQUITECTURA DEL SOFTWARE\\Semana 1\\Modelo C4\\C4Model-NetCore-master\\C4Model\\C4Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Omar\\2021-I\\FUNDAMENTOS DE LA ARQUITECTURA DEL SOFTWARE\\Semana 1\\Modelo C4\\C4Model-NetCore-master\\C4Model\\C4Model.csproj",
+        "projectName": "C4Model",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Omar\\2021-I\\FUNDAMENTOS DE LA ARQUITECTURA DEL SOFTWARE\\Semana 1\\Modelo C4\\C4Model-NetCore-master\\C4Model\\C4Model.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Omar\\2021-I\\FUNDAMENTOS DE LA ARQUITECTURA DEL SOFTWARE\\Semana 1\\Modelo C4\\C4Model-NetCore-master\\C4Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Structurizr.Client": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
